@@ -9,9 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-            .background(Color.yellow)
-            .foregroundColor(Color.blue)
+        Text("Sample Menu Bar APP")
+            .background(Color.white)
+            .foregroundColor(Color.black)
             .frame(width: 300, height: 150)
     }
 }
