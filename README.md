@@ -1,4 +1,4 @@
-# MacOS-menu-bar-application-temp
+# macOS-menu-bar-application-temp
 MacOSを対象としたメニューバーアプリケーション作成用テンプレート
 
 ## リポジトリの説明  
